@@ -1,0 +1,129 @@
+﻿<a href="http://www.economia-snci.gob.mx/siavi4">Secretaria de Economia - SIAVI:Sistema de Informacion Comercial por Internet</a><br>
+
+<style type="text/css">
+.l{
+	FONT-WEIGHT: regular;
+	FONT-SIZE: 7pt;
+	COLOR: #000000;
+	FONT-FAMILY: Arial;
+	text-align: left}
+.r{
+	FONT-WEIGHT: regular;
+	FONT-SIZE: 8pt;
+	COLOR: #000000;
+	FONT-FAMILY: Arial;
+	text-align: right}
+.t{
+	FONT-WEIGHT: regular;
+	FONT-SIZE: 8pt;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Arial;
+	text-align: center
+}
+.titulos{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#999999;
+font-weight:bold;
+}
+.titulos_1{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#003399;
+}
+.titulos_2{
+font-size:10px;
+color:#FF0000;
+font-weight:bold;
+}
+.table_historia{
+
+}
+.table_historia th{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:75%;
+background:#538dd5;
+color:#FFFFFF;
+text-align:center;
+}
+.table_historia tbody{
+border:medium;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:75%;
+color:#003366;
+}
+.table_tools{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:9px;
+color:#666;
+}
+.table_tools a {
+color:#666;
+text-decoration:none;
+}
+.table_tools a:hover {
+color:#990000;
+text-decoration:underline;
+}
+<!--
+.stylerastro {
+font-size: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: #666666;
+}
+.stylerastro2 {
+color: #FF0000;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+.nota_fuente {
+margin: 5px 0 5px 3px;
+color:#990000;
+font-weight: normal;
+font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
+font-size: 11px;
+}
+-->
+</style>
+	
+  <table width="1000" border="0" cellpadding="1" cellspacing="0" align="center">
+	<tr>
+		<td width="1000"><br><font class="titulos">Estad&iacute;sticas Mensuales</font></td></tr></table>
+  <table width="1000" border="0" cellpadding="1" cellspacing="0" align="center">
+	<tr>
+		<td width="1000"><br><font class="titulos">Valor en <font class="titulos">d&oacute;lares</font></font></td></tr></table><table width=1038 border="1" cellpadding="1" cellspacing="0">
+<thead>    <tr bgcolor="#538dd5">          <th scope="col" height="25">          <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>EXPORTACIONES</strong></font></div>      </th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Enero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Febrero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Marzo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Abril</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Mayo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Junio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Julio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Agosto</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Septiembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Octubre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Noviembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Diciembre</font></strong></div></th></tr></thead><tbody><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font size="2" color="#000000"><strong>Total</strong></font></th><td width="70"><strong>0</strong></td><td width="70"><strong>1,588</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>9,270</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>6,876</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>19,381</strong></td></tr><tr class=r bgcolor="#f2f2f2"><th scope="col" class="l"><font color="#000000">Estados Unidos de America</font></th><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">6,876</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">19,381</td></tr><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font color="#000000">Suiza</font></th><td width="70"><strong>0</strong></td><td width="70"><strong>1,588</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>9,270</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td></tr><tr bgcolor="#faf290"><td colspan="35"><font class="nota_fuente"><strong>Fuente:</strong> SAT, SE, BANXICO, INEGI. Balanza Comercial de Mercanc&iacute;as de M&eacute;xico 2003 - 2018. <strong>SNIEG. Informaci&oacute;n de Inter&eacute;s Nacional.</strong></font></td></tr></tbody></table><br>
+  <table width="1000" border="0" cellpadding="1" cellspacing="0" align="center">
+	<tr>
+		<td width="1000"><font class="titulos">Volumen en Kg</font></td></tr></table><table width=1038 border="1" cellpadding="1" cellspacing="0">
+<thead>    <tr bgcolor="#538dd5">          <th scope="col" height="25">          <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>EXPORTACIONES</strong></font></div>      </th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Enero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Febrero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Marzo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Abril</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Mayo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Junio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Julio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Agosto</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Septiembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Octubre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Noviembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Diciembre</font></strong></div></th></tr></thead><tbody><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font size="2" color="#000000"><strong>Total</strong></font></th><td width="70"><strong>0</strong></td><td width="70"><strong>5,390</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>16,190</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>16,785</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>30,210</strong></td></tr><tr class=r bgcolor="#f2f2f2"><th scope="col" class="l"><font color="#000000">Estados Unidos de America</font></th><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">16,785</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">0</td><td width="70">30,210</td></tr><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font color="#000000">Suiza</font></th><td width="70"><strong>0</strong></td><td width="70"><strong>5,390</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>16,190</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td></tr><tr bgcolor="#faf290"><td colspan="35"><font class="nota_fuente"><strong>Fuente:</strong> SE con base en SAT, SE, BANXICO, INEGI. Balanza Comercial de Mercanc&iacute;as de M&eacute;xico 2003 - 2018 <strong>SNIEG. Informaci&oacute;n de Inter&eacute;s Nacional.</strong></font></td></tr></tbody></table><br><br><hr>
+  <table width="1000" border="0" cellpadding="1" cellspacing="0" align="center">
+	<tr>
+		<td width="1000"><br><br><font class="titulos">Valor en <font class="titulos">d&oacute;lares</font></font></td></tr></table><table width=1038 border="1" cellpadding="1" cellspacing="0">
+<thead>    <tr bgcolor="#538dd5">          <th scope="col" height="25">          <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>IMPORTACIONES</strong></font></div>      </th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Enero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Febrero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Marzo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Abril</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Mayo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Junio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Julio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Agosto</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Septiembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Octubre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Noviembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Diciembre</font></strong></div></th></tr></thead><tbody><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font size="2" color="#000000"><strong>Total</strong></font></th><td width="70"><strong>143,371</strong></td><td width="70"><strong>124,640</strong></td><td width="70"><strong>240,402</strong></td><td width="70"><strong>348,505</strong></td><td width="70"><strong>399,812</strong></td><td width="70"><strong>129,628</strong></td><td width="70"><strong>178,983</strong></td><td width="70"><strong>310,215</strong></td><td width="70"><strong>327,211</strong></td><td width="70"><strong>336,899</strong></td><td width="70"><strong>594,568</strong></td><td width="70"><strong>473,641</strong></td></tr><tr class=r bgcolor="#f2f2f2"><th scope="col" class="l"><font color="#000000">Estados Unidos de America</font></th><td width="70">143,371</td><td width="70">124,640</td><td width="70">240,402</td><td width="70">348,505</td><td width="70">377,402</td><td width="70">129,628</td><td width="70">178,983</td><td width="70">310,215</td><td width="70">283,140</td><td width="70">336,899</td><td width="70">488,168</td><td width="70">391,133</td></tr><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font color="#000000">Japon</font></th><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>22,410</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>44,071</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>106,400</strong></td><td width="70"><strong>82,508</strong></td></tr><tr bgcolor="#faf290"><td colspan="35"><font class="nota_fuente"><strong>Fuente:</strong> SAT, SE, BANXICO, INEGI. Balanza Comercial de Mercanc&iacute;as de M&eacute;xico 2003 - 2018. <strong>SNIEG. Informaci&oacute;n de Inter&eacute;s Nacional.</strong></font></td></tr></tbody></table><br>
+  <table width="1000" border="0" cellpadding="1" cellspacing="0" align="center">
+	<tr>
+		<td width="1000"><font class="titulos">Volumen en Kg</font></td></tr></table><table width=1038 border="1" cellpadding="1" cellspacing="0">
+<thead>    <tr bgcolor="#538dd5">          <th scope="col" height="25">          <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><strong>IMPORTACIONES</strong></font></div>      </th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Enero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Febrero</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Marzo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Abril</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Mayo</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Junio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Julio</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Agosto</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Septiembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Octubre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Noviembre</font></strong></div></th><th scope="col" width="70"><div align="center"><strong><font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif">Diciembre</font></strong></div></th></tr></thead><tbody><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font size="2" color="#000000"><strong>Total</strong></font></th><td width="70"><strong>134,584</strong></td><td width="70"><strong>117,828</strong></td><td width="70"><strong>224,586</strong></td><td width="70"><strong>328,775</strong></td><td width="70"><strong>381,657</strong></td><td width="70"><strong>122,108</strong></td><td width="70"><strong>163,113</strong></td><td width="70"><strong>272,200</strong></td><td width="70"><strong>282,896</strong></td><td width="70"><strong>278,808</strong></td><td width="70"><strong>531,239</strong></td><td width="70"><strong>414,538</strong></td></tr><tr class=r bgcolor="#f2f2f2"><th scope="col" class="l"><font color="#000000">Estados Unidos de America</font></th><td width="70">134,584</td><td width="70">117,828</td><td width="70">224,586</td><td width="70">328,775</td><td width="70">353,887</td><td width="70">122,108</td><td width="70">163,113</td><td width="70">272,200</td><td width="70">229,476</td><td width="70">278,808</td><td width="70">407,079</td><td width="70">321,098</td></tr><tr class=r bgcolor="#ffffff"><th scope="col" class="l"><font color="#000000">Japon</font></th><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>27,770</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>53,420</strong></td><td width="70"><strong>0</strong></td><td width="70"><strong>124,160</strong></td><td width="70"><strong>93,440</strong></td></tr><tr bgcolor="#faf290"><td colspan="35"><font class="nota_fuente"><strong>Fuente:</strong> SE con base en SAT, SE, BANXICO, INEGI. Balanza Comercial de Mercanc&iacute;as de M&eacute;xico 2003 - 2018 <strong>SNIEG. Informaci&oacute;n de Inter&eacute;s Nacional.</strong></font></td></tr></tbody></table><br><br><table width="1000" border="0" cellpadding="2" cellspacing="3" align="center" class="notasdeinfo">
+  <tr>
+    <td width="1000"><strong></strong></td>
+  </tr>
+
+  <tr>
+    <td width="1000"><strong>Notas:</strong></td>
+  </tr>
+
+  <tr>
+    <td width="1000"><table width="1000" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="50">&nbsp;</td>
+        <td width="950">Los datos estad&iacute;sticos de los &uacute;ltimos a&ntilde;os, est&aacute;n sujetos a revisiones por parte del Grupo de Trabajo de Estad&iacute;sticas de Comercio Exterior, integrado por el Banco de M&eacute;xico, INEGI, Servicio de Administraci&oacute;n Tributaria y la Secretar&iacute;a de Econom&iacute;a.</td>
+      </tr>
+    </table>    </td>
+  </tr>
+  <tr>
+    <td width="1000" bgcolor="#0099CC" style="padding:5px 5px 5px 5px"><font color="#FFFFFF"><strong>Informaci&oacute;n de Importaciones y Exportaciones de M&eacute;xico a nivel <u>fracci&oacute;n</u> e historia arancelaria del bien. La informaci&oacute;n puede ser consultada Anual o mensual</strong></font></td>
+  </tr>
+</table>
